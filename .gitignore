@@ -1,0 +1,41 @@
+# Visual Studio 2026
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.props
+*.cache
+bin/
+obj/
+ipch/
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+
+# C++ build artifacts
+*.o
+*.obj
+*.a
+*.exe
+*.out
+Debug/
+Release/
+x64/
+
+# PDCurses
+curses.h
+panel.h
+term.h
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
